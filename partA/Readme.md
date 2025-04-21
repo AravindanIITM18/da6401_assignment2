@@ -14,6 +14,7 @@ model = FlexibleCNN(
     activation="GELU",
     dense_units=128,
     dropout_rate=0.3
-).to(device)```
+).to(device)
+```
 
 A2_partA.ipynb contains all the code blocks used and has detailed descriptions of each block and reasoning as well.
