@@ -5,7 +5,7 @@ This project explores Convolutional Neural Networks through two main approaches:
 1. Building and training a flexible CNN from scratch
 2. Fine-tuning a pre-trained GoogLeNet model
 
-[![View on Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-Report-blue)](https://wandb.ai/mm21b010-indian-institute-of-technology-madras/inaturalist-cnn/reports/Copy-of-sivasankar1234-s-DA6401-Assignment-2--VmlldzoxMjM1NTg4Ng?accessToken=n0xhb0z7pe7qor4d6zw48glgintmoxhz80w3fkv2p4ivv6fgn04yfw5azrcw1v5k)
+[![View on Weights & Biases](https://wandb.ai/mm21b010-indian-institute-of-technology-madras/inaturalist-cnn/reports/Copy-of-sivasankar1234-s-DA6401-Assignment-2--VmlldzoxMjM1NTg4Ng?accessToken=n0xhb0z7pe7qor4d6zw48glgintmoxhz80w3fkv2p4ivv6fgn04yfw5azrcw1v5k)
 
 ## Project Structure
 
